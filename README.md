@@ -16,3 +16,6 @@ docker build -t cms . && docker run -p 8000:8000 cms
 
 #### Run Unit Tests
 * ```python manage.py test```
+
+#### Block Diagram
+![block_diagram](https://github.com/rupesh2192/cms/blob/master/Django.png)
