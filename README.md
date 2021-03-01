@@ -12,3 +12,7 @@ docker build -t cms . && docker run -p 8000:8000 cms
 * API Swagger: http://localhost:8000/swagger/
 * API Documentation: http://localhost:8000/redoc/
 * DRF Browsable API: http://localhost:8000/
+
+
+#### Run Unit Tests
+* ```python manage.py test```
