@@ -1,5 +1,13 @@
 # CMS: Customer Management System
 
+The purpose of the project is to demonstrate the knowledge of below modules:
+* Django
+* Django REST Framework
+* API Documentation
+* Clean & Scalable Code
+* Unit test
+* API & Database Design
+
 ### Run on Local
 ##### Pre-Requisite:
 * [Docker](https://docs.docker.com/engine/install/)
