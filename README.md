@@ -6,7 +6,7 @@
 
 ##### Command
 ```
-docker build -t cms . && docker run -p 8000:8000 cms 
+docker build -t cms . && docker run -p 8000:8000 cms
 ```
 ##### Important Links
 * API Swagger: http://localhost:8000/swagger/
